@@ -2,12 +2,6 @@
 Project: Lab Eats (Campus Mutual-Aid)
 Group 20 | Date: 27/03/2026
 
-## Project Status: 🟢 ON TRACK
-Traffic light (RYG — this week):
-🟢 Green: First local front-end structure; basic login page framework; homepage rough + image direction; requirements and initial DB field planning advanced.
-🟡 Yellow: Final branded homepage art not locked (temporary hero image); navigation still early-stage.
-🔴 Red: No cross-module end-to-end flow testable yet; wallet still in early specification vs integrated UI.
-
 ## What We Did This Week (100% Match DevLog)
 | Who | Did What |
 |------|------|
